@@ -1,0 +1,10 @@
+# ninja log v5
+10	75	1648149287651716151	BaseOrrery_autogen/timestamp	6f11e4b36ac48306
+10	75	1648149287651716151	BaseOrrery_autogen/mocs_compilation.cpp	6f11e4b36ac48306
+10	75	1648149287651716151	/Users/jonsalenger/CLionProjects/BaseOrrery/cmake-build-debug/BaseOrrery_autogen/timestamp	6f11e4b36ac48306
+432	5154	1648146397386331131	CMakeFiles/BaseOrrery.dir/main.cpp.o	e3854ef7e81b236a
+10	75	1648149287651716151	/Users/jonsalenger/CLionProjects/BaseOrrery/cmake-build-debug/BaseOrrery_autogen/mocs_compilation.cpp	6f11e4b36ac48306
+4037	4132	1648149291704703096	BaseOrrery	b6334070aaa4ead3
+432	5161	1648146397411535909	CMakeFiles/BaseOrrery.dir/Celestial.cpp.o	295b5ba6679cace9
+431	5156	1648146397379347884	CMakeFiles/BaseOrrery.dir/BaseOrrery_autogen/mocs_compilation.cpp.o	3809ff81183f0f35
+77	4037	1648149291593658407	CMakeFiles/BaseOrrery.dir/WindowWidget.cpp.o	efd587b5d6dc2c8

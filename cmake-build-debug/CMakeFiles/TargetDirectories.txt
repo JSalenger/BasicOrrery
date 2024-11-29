@@ -1,0 +1,5 @@
+/Users/jonsalenger/CLionProjects/BaseOrrery/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jonsalenger/CLionProjects/BaseOrrery/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonsalenger/CLionProjects/BaseOrrery/cmake-build-debug/CMakeFiles/BaseOrrery.dir
+/Users/jonsalenger/CLionProjects/BaseOrrery/cmake-build-debug/CMakeFiles/BaseOrrery_autogen_timestamp_deps.dir
+/Users/jonsalenger/CLionProjects/BaseOrrery/cmake-build-debug/CMakeFiles/BaseOrrery_autogen.dir
